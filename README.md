@@ -68,4 +68,7 @@
 ## 📸 UI Preview
 
 > Beautiful, interactive UI with neatly organized fields and action buttons.
+![login Form](https://github.com/samiho03/PhoneDirectory/blob/master/Frame%2010.png)
+![directory Form](https://github.com/samiho03/PhoneDirectory/blob/master/directory.png)
+
 
