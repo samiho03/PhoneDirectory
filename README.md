@@ -65,12 +65,14 @@
 
 ---
 
-## 📸 UI Preview
+## UI Preview
 
 > Beautiful, interactive UI with neatly organized fields and action buttons.
-**Login Page**
+
+### Login Page
 ![login Form](https://github.com/samiho03/PhoneDirectory/blob/master/Frame%2010.png)
-**Directory**
+
+### Directory
 ![directory Form](https://github.com/samiho03/PhoneDirectory/blob/master/directory.png)
 
 
